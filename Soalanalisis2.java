@@ -1,5 +1,12 @@
+/* Nama	: DEVI MAULANI
+ * NIM	: 241524007
+ * Kelas: 1A-D4
+ * Deskripsi: Berisi soure code dari soal analisis 1 (Welcome Java). 
+ * 
+ */
 
-public class Soalanalisis2 {
+
+public class Soal2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int i = 42;
